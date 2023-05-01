@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Piotr
 #### I am novice programmer
 
-Skills: C / C++ / HTML / PYTHON
+Skills: C / C++ / HTML / CSS / JS/ PYTHON
 
 - 💬 Ask me about what you want! 
 
