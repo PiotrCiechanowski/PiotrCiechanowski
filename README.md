@@ -14,4 +14,3 @@ Skills: #C / C / C++ / HTML / CSS / JS / PYTHON
 
  
 
-![Profile views](https://gpvc.arturio.dev/PiotrCiechanowski)  
