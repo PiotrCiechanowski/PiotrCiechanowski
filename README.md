@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Piotr
 
 
-Skills: #C / C / C++ / HTML / CSS / JS / PYTHON
+Skills: #C / C / C++ / HTML / CSS / JS / PYTHON / PHP / SQL
 
 - 💬 Ask me about what you want! 
 
